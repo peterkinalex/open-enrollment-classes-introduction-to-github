@@ -1,0 +1,3 @@
+﻿Network Security Settings:
+
+network name (SSID): ARRIS-9422
